@@ -66,7 +66,7 @@ function App({ signOut, user }) {
         <input placeholder="enter a description" name="petDescription" />
         <select name="petType">
           <option value="none" disabled>
-            Please select a pet
+            Please select pet (testing)
           </option>
           <option value="dog">Dog</option>
           <option value="cat">Cat</option>
