@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "apptest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/girish/apptest/amplify/backend/api/apptest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authappteste14f056e"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}
